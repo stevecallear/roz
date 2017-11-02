@@ -10,7 +10,7 @@ import (
 func ExampleNew() {
 	s := roz.New("My", "URL Slug")
 	fmt.Println(s)
-	// Output: "my-url-slug"
+	// Output: my-url-slug
 }
 
 func TestNew(t *testing.T) {
