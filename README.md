@@ -6,8 +6,13 @@
 Roz is a slug generator for Go.
 
 ## Getting Started
-`go get github.com/stevecallear/roz`
 
+### Installation
+```
+go get github.com/stevecallear/roz
+```
+
+### Usage
 ``` go
 package main
 
