@@ -1,5 +1,5 @@
 # Roz
-[![Build Status](https://travis-ci.org/stevecallear/roz.svg?branch=master)](https://travis-ci.org/stevecallear/roz)
+[![Build Status](https://github.com/stevecallear/roz/actions/workflows/build.yml/badge.svg)](https://github.com/stevecallear/roz/actions/workflows/build.yml)
 [![codecov](https://codecov.io/gh/stevecallear/roz/branch/master/graph/badge.svg)](https://codecov.io/gh/stevecallear/roz)
 [![Go Report Card](https://goreportcard.com/badge/github.com/stevecallear/roz)](https://goreportcard.com/report/github.com/stevecallear/roz)
 
